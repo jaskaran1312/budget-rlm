@@ -1,6 +1,6 @@
 # RLM Document Analyzer
 
-A robust implementation of Recursive Language Models (RLMs) for analyzing large collections of documents. This system allows language models to recursively call themselves through a Python REPL environment, enabling analysis of essentially unbounded context lengths.
+A ~robust~ budget implementation of Recursive Language Models (RLMs) for analyzing large collections of documents. This system allows language models to recursively call themselves through a Python REPL environment, enabling analysis of essentially unbounded context lengths. **This is hacky and if you find optimizations/scope of improvement please contribute.**
 
 ## Features
 
