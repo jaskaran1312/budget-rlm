@@ -1,0 +1,13 @@
+# Core dependencies for RLM Document Analyzer
+google-genai>=0.3.0
+python-dotenv>=1.0.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment as needed:
+# numpy>=1.21.0
+# pandas>=1.3.0
+# scikit-learn>=1.0.0
+# nltk>=3.7
+# spacy>=3.4.0
+# transformers>=4.20.0
+# torch>=1.12.0
